@@ -3,6 +3,7 @@
 -- Star Schema — View Definitions
 -- Author: Samyak G19
 -- Database: supply_chain.db
+-- ============================================
 
 -- ── VIEW 1: Central Fact Table ───────────────
 -- One row per shipment with all calculated KPIs
