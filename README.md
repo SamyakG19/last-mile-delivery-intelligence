@@ -80,6 +80,7 @@ last-mile-delivery-intelligence/
 ├── presentation/
 │   └── executive_deck.pdf      ← Consulting presentation
 └── README.md
+```
 ---
 
 ## 🛠️ Tech Stack
