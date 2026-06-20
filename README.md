@@ -111,6 +111,30 @@ last-mile-delivery-intelligence/
 
 ---
 
+## 🖼️ Dashboard Preview
+
+### Page 1: Executive Summary
+![Executive Summary](dashboard/page_01_Executive_Summary.png)
+
+### Page 2: Delivery Analysis
+![Delivery Analysis](dashboard/page_02_Delivery_Analysis.png)
+
+### Page 3: Zone Heatmap
+![Zone Heatmap](dashboard/page_03_Zone_Heatmap.png)
+
+### Page 4: Risk Feed
+![Risk Feed](dashboard/page_04_Risk_Feed.png)
+
+### Page 5: Demand Forecast
+![Demand Forecast](dashboard/page_05_Demand_Forecast.png)
+
+### Page 6: Sustainability
+![Sustainability](dashboard/page_06_Sustainability.png)
+
+> 💡 Full interactive `.pbix` file: [`dashboard/delivery_dashboard.pbix`](dashboard/delivery_dashboard.pbix) (requires Power BI Desktop to open)
+
+---
+
 ## 🗃️ Datasets
 
 | Dataset | Source | Rows |
